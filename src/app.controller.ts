@@ -1,12 +1,11 @@
 import { Controller, Get } from '@nestjs/common';
-import { AppService } from './app.service';
 
-@Controller()//permite que la clase reciba peticiones http
+
+
+@Controller('/tracks')//permite que la clase reciba peticiones http
+//se le ingresa una ruta
 export class AppController {
-  constructor(private readonly appService: AppService) {}
-//decorador get para poder procesar peticiones
-  @Get()//cuando entre una petic. de tipo get se ejecuta el método getHello()
-  getHello(): string {
-    return this.appService.getHello();
-  }
+  
+//decorador get para poder procesar peticiones. Maneja la ruta de controller
+ 
 }

@@ -1,0 +1,64 @@
+{
+  " tracks":[
+    {
+      "id": 1,
+      "title": "Shape of You",
+      "duration": 233,
+      "artist": "Ed Sheeran"
+    },
+    {
+      "id": 2,
+      "title": "Blinding Lights",
+      "duration": 201,
+      "artist": "The Weeknd"
+    },
+    {
+      "id": 3,
+      "title": "Uptown Funk",
+      "duration": 270,
+      "artist": "Mark Ronson ft. Bruno Mars"
+    },
+    {
+      "id": 4,
+      "title": "Rolling in the Deep",
+      "duration": 228,
+      "artist": "Adele"
+    },
+    {
+      "id": 5,
+      "title": "Despacito",
+      "duration": 228,
+      "artist": "Luis Fonsi ft. Daddy Yankee"
+    },
+    {
+      "id": 6,
+      "title": "Havana",
+      "duration": 217,
+      "artist": "Camila Cabello"
+    },
+    {
+      "id": 7,
+      "title": "Thinking Out Loud",
+      "duration": 281,
+      "artist": "Ed Sheeran"
+    },
+    {
+      "id": 8,
+      "title": "Somebody That I Used to Know",
+      "duration": 244,
+      "artist": "Gotye ft. Kimbra"
+    },
+    {
+      "id": 9,
+      "title": "Radioactive",
+      "duration": 190,
+      "artist": "Imagine Dragons"
+    },
+    {
+      "id": 10,
+      "title": "Happy",
+      "duration": 233,
+      "artist": "Pharrell Williams"
+    }
+]
+}
