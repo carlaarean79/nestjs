@@ -2,7 +2,7 @@ import { Controller, Get } from '@nestjs/common';
 import { TracksService } from './tracks.service';
 import { iTrack } from './tracks.interface';
 
-@Controller('/tracks')
+@Controller('tracks')
 export class TracksController {
     constructor(private readonly TracksService: TracksService){}
     @Get()

@@ -1,8 +1,8 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller} from '@nestjs/common';
 
 
 
-@Controller('/tracks')//permite que la clase reciba peticiones http
+@Controller('api')//permite que la clase reciba peticiones http
 //se le ingresa una ruta
 export class AppController {
   
